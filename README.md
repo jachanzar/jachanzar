@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jachanzar
 - 👀 I’m interested in ...front-end development. I am brand new! 
-- 🌱 I’m currently learning ... web development. I'm taking an intro class right now. 
+- 🌱 I’m currently learning ... web development: React, React native, MongoDB.
 - 💞️ I’m looking to collaborate on ... basic front end projects. 
 - 📫 How to reach me ... email me @justinachanzar@gmail.com
 
